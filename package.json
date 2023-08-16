@@ -1,6 +1,6 @@
 {
   "name": "group-by-name",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "description": "Group array objects by an object key",
   "main": "index.js",
   "keywords": [
