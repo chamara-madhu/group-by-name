@@ -1,6 +1,6 @@
 {
   "name": "group-by-name",
-  "version": "2.3.0",
+  "version": "2.5.0",
   "description": "Group array objects by an object key",
   "main": "index.js",
   "keywords": [
@@ -12,6 +12,10 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chamara-madhu/group-by-name.git"
   },
   "author": "Chamara Madhushanka",
   "license": "MIT"

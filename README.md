@@ -49,29 +49,15 @@ Output:
 ```js
 [
   {
-    name: "make",
+    name: "BMW",
     data: [
-      {
-        make: "BMW",
-        modal: "X1",
-        capacity: "2000cc",
-      },
-      {
-        make: "BMW",
-        modal: "X6",
-        capacity: "2500cc",
-      },
+      { make: "BMW", modal: "X1", capacity: "2000cc" },
+      { make: "BMW", modal: "X6", capacity: "2500cc" },
     ],
   },
   {
-    name: "make",
-    data: [
-      {
-        make: "Benz",
-        modal: "E300",
-        capacity: "3000cc",
-      },
-    ],
+    name: "Benz",
+    data: [{ make: "Benz", modal: "E300", capacity: "3000cc" }],
   },
 ];
 ```
