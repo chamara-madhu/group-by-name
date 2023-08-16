@@ -4,10 +4,6 @@
   "description": "Group array objects by an object key",
   "main": "index.js",
   "keywords": [
-    "npm",
-    "Package",
-    "group",
-    "group-by",
     "group-by-name"
   ],
   "scripts": {
