@@ -61,8 +61,9 @@ Output:
   },
 ];
 ```
+# Author
+© chamaramadhushanka
 
 # License
 
-ISC © chamaramadhushanka
-"# group-by-name"
+ISC
