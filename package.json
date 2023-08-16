@@ -1,0 +1,18 @@
+{
+  "name": "group-by-name",
+  "version": "2.3.0",
+  "description": "Group array objects by an object key",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "Package",
+    "group",
+    "group-by",
+    "group-by-name"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chamara Madhushanka",
+  "license": "MIT"
+}
